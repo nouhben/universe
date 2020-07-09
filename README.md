@@ -1,8 +1,8 @@
 # universe
 a Flutter UI challenge from dribbble (https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
 ![alt text](https://cdn.dribbble.com/users/914722/screenshots/6600859/univrss.png)
-A new Flutter application.
-
+Here is the result:
+![alt text](https://github.com/nouhben/universe/blob/master/univers.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
