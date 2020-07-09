@@ -1,6 +1,6 @@
 # universe
 a Flutter UI challenge from dribbble (https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
-'https://cdn.dribbble.com/users/914722/screenshots/6600859/univrss.png'
+![alt text](https://cdn.dribbble.com/users/914722/screenshots/6600859/univrss.png)
 A new Flutter application.
 
 ## Getting Started
